@@ -50,7 +50,7 @@ class _InstarCloneHomeState extends State<InstarCloneHome> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
+      appBar: index == 0 ? AppBar(
         title: Text(
           'Instargram',
           style: GoogleFonts.lobsterTwo(
@@ -79,7 +79,7 @@ class _InstarCloneHomeState extends State<InstarCloneHome> {
             ),
           ),
         ],
-      ),
+      ) : null,
       body: InstarBody(index: index),
       bottomNavigationBar: BottomNavigationBar(
         onTap: (newIndex) => setState(() => index = newIndex),
