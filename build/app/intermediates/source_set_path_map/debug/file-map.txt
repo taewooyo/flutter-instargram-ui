@@ -1,0 +1,13 @@
+com.taewooyo.instar.clone.instar_clone.app-core-1.6.0-0 /Users/namtaeu/.gradle/caches/transforms-3/041d342fa1a873005e15288336ac3665/transformed/core-1.6.0/res
+com.taewooyo.instar.clone.instar_clone.app-jetified-annotation-experimental-1.1.0-1 /Users/namtaeu/.gradle/caches/transforms-3/1b556dabe9822f68d37be982d4fddc18/transformed/jetified-annotation-experimental-1.1.0/res
+com.taewooyo.instar.clone.instar_clone.app-jetified-window-java-1.0.0-beta04-2 /Users/namtaeu/.gradle/caches/transforms-3/867bb72716a1b323aab5fa69d7799603/transformed/jetified-window-java-1.0.0-beta04/res
+com.taewooyo.instar.clone.instar_clone.app-jetified-window-1.0.0-beta04-3 /Users/namtaeu/.gradle/caches/transforms-3/8b42b267c76ac5bfb10a0bf3e5ea5d21/transformed/jetified-window-1.0.0-beta04/res
+com.taewooyo.instar.clone.instar_clone.app-debug-4 /Users/namtaeu/Desktop/instar-clone/android/app/src/debug/res
+com.taewooyo.instar.clone.instar_clone.app-main-5 /Users/namtaeu/Desktop/instar-clone/android/app/src/main/res
+com.taewooyo.instar.clone.instar_clone.app-pngs-6 /Users/namtaeu/Desktop/instar-clone/build/app/generated/res/pngs/debug
+com.taewooyo.instar.clone.instar_clone.app-resValues-7 /Users/namtaeu/Desktop/instar-clone/build/app/generated/res/resValues/debug
+com.taewooyo.instar.clone.instar_clone.app-rs-8 /Users/namtaeu/Desktop/instar-clone/build/app/generated/res/rs/debug
+com.taewooyo.instar.clone.instar_clone.app-mergeDebugResources-9 /Users/namtaeu/Desktop/instar-clone/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.taewooyo.instar.clone.instar_clone.app-mergeDebugResources-10 /Users/namtaeu/Desktop/instar-clone/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.taewooyo.instar.clone.instar_clone.app-merged_res-11 /Users/namtaeu/Desktop/instar-clone/build/app/intermediates/merged_res/debug
+com.taewooyo.instar.clone.instar_clone.app-packaged_res-12 /Users/namtaeu/Desktop/instar-clone/build/path_provider_android/intermediates/packaged_res/debug
